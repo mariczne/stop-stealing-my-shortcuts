@@ -6,7 +6,7 @@ By default it is configured to prevent Discord from stealing shortcut to activat
 ## Installation
 
 1. Install a userscript manager ([Tampermonkey](https://www.tampermonkey.net/) is what I use and recommend)
-2. [Click here to install the script](https://raw.githubusercontent.com/mariczne/stop-stealing-my-shortcuts/main/stop-stealing-my-shortcuts.user.js)
+2. [Click here to install the script](https://github.com/mariczne/stop-stealing-my-shortcuts/raw/refs/heads/master/stop-stealing-my-shortcuts.user.js)
 
 ## Adding More Shortcuts
 
