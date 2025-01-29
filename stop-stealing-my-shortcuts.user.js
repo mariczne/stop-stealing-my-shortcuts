@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Stop Stealing My Shortcuts
 // @namespace    https://github.com/mariczne/stop-stealing-my-shortcuts
-// @version      0.1.1
+// @version      0.1.2
 // @description  Prevent websites from hijacking specific keyboard shortcuts, like Chrome Tab Switcher
 // @license      MIT
 // @author       mariczne
 // @match        https://discord.com/*
+// @match        https://www.facebook.com
+// @match        https://app.slack.com/*
 // @icon         https://github.githubassets.com/pinned-octocat.svg
 // @supportURL   https://github.com/mariczne/stop-stealing-my-shortcuts/issues
 // @grant        none
